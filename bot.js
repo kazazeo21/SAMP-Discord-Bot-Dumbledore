@@ -20,9 +20,9 @@ let Samp_IP = "51.178.138.254";
 let Samp_Port = 7777;
 let Community_Tag ="WG";
 
-let userToSubmitApplicationsTo = '710195458680684695';//Default Channel Id for User Applications
-let reportChannelID = '714432112031170562'; // Channel for the ingam reports
-let adminCmdsChannelID = '710195250911641741'; // Admin Cmds channel
+let userToSubmitApplicationsTo = '820041293102710825';//Default Channel Id for User Applications
+let reportChannelID = '820041293102710825'; // Channel for the ingam reports
+let adminCmdsChannelID = '820041293102710825'; // Admin Cmds channel
 let Bot_debug_mode = false;
 
 //_______________________________[APPLICATIONS]______________________________________________
